@@ -13,14 +13,13 @@ public class PrimeNumber {
 		for (int i = 2; i < n; i++) {
 			if (n % i == 0) {
 				count = 2;
+				System.out.println("not a prime raa ambi");
 				break;
 			}
 		}
 		if (count == 1) {
 			System.out.println("prime da ambi");
-		} else {
-			System.out.println("not a prime raa ambi");
-		}
+		} 
 	}
 
 }
