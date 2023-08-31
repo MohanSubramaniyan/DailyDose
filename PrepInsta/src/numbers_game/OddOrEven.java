@@ -1,4 +1,4 @@
-package numbers;
+package numbers_game;
 
 public class OddOrEven {
 

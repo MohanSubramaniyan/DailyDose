@@ -1,4 +1,4 @@
-package numbers;
+package numbers_game;
 public class PossitiveOrNegative {
 
 	public static void main(String[] args) {
