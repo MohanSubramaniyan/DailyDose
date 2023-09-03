@@ -13,7 +13,7 @@ public class ReverseInt {
 //		}
 		for(;num!=0;num/=10) {
 			rem=num%10;
-			a*=10+(rem);
+			a=a*10+rem;
 		}
 		System.out.println(a);
 	}
