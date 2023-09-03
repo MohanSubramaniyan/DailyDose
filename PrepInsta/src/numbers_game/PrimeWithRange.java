@@ -3,7 +3,7 @@ package numbers_game;
 public class PrimeWithRange {
 	
 		public static void main(String args[]){
-			int l=10,u=20;
+			int l=10,u=25;
 			for(int i=l ; i<=u ; i++){
 				if(prm(i))
 					System.out.println(i);
