@@ -6,7 +6,7 @@ public class PrimeWithRange {
 			int l=10,u=25;
 			for(int i=l ; i<=u ; i++){
 				if(prm(i))
-					System.out.println(i);
+					System.out.print(i+" ");
 			}
 		}
 		static boolean prm (int n){
