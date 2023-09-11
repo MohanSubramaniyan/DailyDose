@@ -21,7 +21,7 @@ public class Diamond {
 				System.out.print(" ");
 			}
 			for(j=1;j<=i;j++) {
-				System.out.print("* ");
+				System.out.print(" ");
 			} System.out.println();
 		}
 		
